@@ -1,0 +1,82 @@
+/*
+	*
+	* NEXUS
+	*
+	*
+*/
+
+@media screen and (max-width: 600px){
+	
+	#main{
+		font-family: 'Pontano Sans', sans-serif !important;
+		color: black;
+		
+		padding-top: 5%;
+		padding-bottom: 5%;
+		height: auto;
+		text-align: center;
+		border-style: solid;
+	}
+		
+	
+	
+		
+	#result{
+		width: 100%;
+		height: auto;
+		text-align: right;
+		padding-right: 20%;
+	}
+	
+	
+}	
+	
+	
+	
+
+
+
+/*
+	*
+	*
+	*
+	*
+	*
+	*
+	* DESKTOP DISPLAY
+	*
+	*
+	*
+	*
+	*
+	*
+*/
+
+@media screen and (min-width: 601px){
+	
+	#main{
+		font-family: 'Pontano Sans', sans-serif !important;
+		color: black;
+		margin-top: 5%;
+		margin-left: 30%;
+		margin-right: 30%;
+		margin-bottom:10%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+		height: auto;
+		text-align: center;
+		border-style: solid;
+	}
+		
+	
+	
+		
+	#result{
+		width: 100%;
+		height: auto;
+		text-align: right;
+		padding-right: 20%;
+	}
+	
+
+}  
